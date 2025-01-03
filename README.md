@@ -10,7 +10,6 @@
     ✅ پیام ها در Sql سیو میشوند
   </p>
   <p style="font-size: 18px; font-weight: bold; margin-bottom: 30px;">
-    انقدر قابلیت‌ها زیادن که باید نسخه پرمیوم بخرید تا ببینید!
   </p>
 </div>
 
